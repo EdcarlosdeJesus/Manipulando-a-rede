@@ -57,6 +57,3 @@ Utilizando o Wireshark podemos verificar que no filtro ARP  temos uma conversa e
 
 
 
-
-- Acesso root: ``` sudo su ```
-- Iniciando o setoolkit: ``` setoolkit ```
